@@ -1,3 +1,5 @@
+# CNNImageQualityEnhancement
+
 1. Подготовить данные
    python3 prepare_data.py
 2. Обучение
